@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parker-lin
 - 👀 I’m interested in Golang, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: parker.glin@gmail.com
 
 <!---
 parker-lin/parker-lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
